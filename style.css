@@ -31,9 +31,9 @@ body{
 .custom-slider { display: none; }
 .slide-container {
     width: 100%;
+    height:auto;
     max-width: 1000px;
     min-width: 200px;
-    height: 20%;
     position:relative;
     margin: auto;
 }
