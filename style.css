@@ -69,7 +69,6 @@ body{
     text-align: center;
     max-height: 800px;
     object-fit: cover;
-    object-position: center;
 }
 .slide-dot{ text-align: center; }
 .dot {
