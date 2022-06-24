@@ -110,7 +110,7 @@ body{
 
   .contact .content .row .card{
     background: #fff;
-    width: 150px;
+    width: 200px;
     margin: 20px;
     padding: 25px;
     display: flex;
@@ -123,7 +123,7 @@ body{
 
   .contact .content .row .card .contact-icon{
     color: #08234c;
-    font-size: 4em;
+    font-size: 3em;
     text-align: center;
     transition: transform 0.5s ease;
   }
