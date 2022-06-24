@@ -34,7 +34,6 @@ body{
     height : 20%;
     max-width: 1000px;
     min-width: 200px;
-    position:relative;
     margin: auto;
 }
 .prev, .next {
