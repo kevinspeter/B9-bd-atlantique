@@ -66,8 +66,8 @@ body{
 }
 .slide-img{
     max-width : 100%;
-    height:calc(800 * var(--res));
-    text-align: right;
+    max-height: 1000px;
+    text-align: center;
     object-fit: cover;
     object-position: center;
 }
