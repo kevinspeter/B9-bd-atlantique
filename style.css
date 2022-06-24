@@ -67,7 +67,7 @@ body{
 .slide-img{
     max-width : 100%;
     height:calc(800 * var(--res));
-    text-align: center;
+    text-align: right;
     object-fit: cover;
     object-position: center;
 }
