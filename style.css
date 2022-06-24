@@ -110,7 +110,7 @@ body{
 
   .contact .content .row .card{
     background: #fff;
-    width: calc(200 * var(--res));
+    width: calc(100 * var(--res));
     margin: 20px;
     padding: 25px;
     display: flex;
