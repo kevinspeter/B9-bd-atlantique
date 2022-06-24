@@ -31,7 +31,6 @@ body{
 .custom-slider { display: none; }
 .slide-container {
     width: 100%;
-    height:auto;
     max-width: 1000px;
     min-width: 200px;
     position:relative;
@@ -66,7 +65,7 @@ body{
     top: 0;
 }
 .slide-img{
-    max-width : 100%;
+    width : 100%;
     height : auto;
     text-align: center;
     object-fit: cover;
